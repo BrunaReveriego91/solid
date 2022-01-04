@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ueiRQ1RWTRgy2JtwVSDG4y17TMTJZBrYb/m+IbzlwOy6wzPmvtUcpgO+mE3fBUgQoJW9zKEb7/Q8KaRfd9hAMw==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\4_Principio_SRP\\CursoFoop_SRP\\CursoFoop_SRP_Aderente\\CursoFoop_SRP_Aderente\\CursoFoop_SRP_Aderente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LJ875UV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
