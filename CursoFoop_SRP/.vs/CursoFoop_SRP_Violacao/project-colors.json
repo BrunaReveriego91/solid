@@ -5,7 +5,12 @@
       "ProjectGuid": "ba026738-0e5d-4a18-a1b0-6fdf1c8ab956",
       "DisplayName": "CursoFoop_SRP_Violacao",
       "ColorIndex": 0
+    },
+    "e20d8f7b-b18f-4594-8e31-cc5df19f161a": {
+      "ProjectGuid": "e20d8f7b-b18f-4594-8e31-cc5df19f161a",
+      "DisplayName": "CursoFoop_SRP_Aderente",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
