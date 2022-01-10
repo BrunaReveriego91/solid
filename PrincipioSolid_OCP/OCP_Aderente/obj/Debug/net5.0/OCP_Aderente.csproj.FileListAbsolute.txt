@@ -1,0 +1,16 @@
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.exe
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.deps.json
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.runtimeconfig.json
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.runtimeconfig.dev.json
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.dll
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\ref\OCP_Aderente.dll
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\bin\Debug\net5.0\OCP_Aderente.pdb
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.csproj.AssemblyReference.cache
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.AssemblyInfoInputs.cache
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.AssemblyInfo.cs
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.csproj.CoreCompileInputs.cache
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.dll
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\ref\OCP_Aderente.dll
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.pdb
+C:\Projeto\4_Principio_SRP\PrincipioSolid_OCP\OCP_Aderente\obj\Debug\net5.0\OCP_Aderente.genruntimeconfig.cache
