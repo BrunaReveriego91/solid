@@ -1,0 +1,16 @@
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.exe
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.deps.json
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.runtimeconfig.json
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.runtimeconfig.dev.json
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.dll
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\ref\CursoFoop_LSP_Violacao.dll
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\bin\Debug\net5.0\CursoFoop_LSP_Violacao.pdb
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.csproj.AssemblyReference.cache
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.AssemblyInfoInputs.cache
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.AssemblyInfo.cs
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.csproj.CoreCompileInputs.cache
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.dll
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\ref\CursoFoop_LSP_Violacao.dll
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.pdb
+C:\Projeto\4_Principio_SRP\CursoFoop_LSP_Violacao\CursoFoop_LSP_Violacao\obj\Debug\net5.0\CursoFoop_LSP_Violacao.genruntimeconfig.cache

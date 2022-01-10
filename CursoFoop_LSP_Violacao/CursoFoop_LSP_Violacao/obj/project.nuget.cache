@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvSqL2be7rRTR4+0PnX3o1OUSbecsMWdgvLFsIYhwVK11WRp2GnMOvHqNot8sZBnZzO+olFT6JQZwVFWY+kMzw==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\4_Principio_SRP\\CursoFoop_LSP_Violacao\\CursoFoop_LSP_Violacao\\CursoFoop_LSP_Violacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LJ875UV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
